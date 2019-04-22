@@ -21,6 +21,7 @@ def main():
     print((x + y) / z)
     v = [factorio(var) for var in range(100) if var % 2 == 0]
     print(v)
+    print('yeet')
     
    
 
