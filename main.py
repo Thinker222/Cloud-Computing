@@ -22,7 +22,7 @@ def main():
     v = [factorio(var) for var in range(100) if var % 2 == 0]
     print(v)
     print('yeet')
-    
+    print('yeet')
    
 
 if '__main__':
